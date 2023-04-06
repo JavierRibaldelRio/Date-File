@@ -15,8 +15,7 @@ apps:
   date-file:
     command: bin/date-file.sh
     plugs:
-      - touch
-      - date
+      - home
 
 parts:
   date-file:
