@@ -1,13 +1,13 @@
 name: date-file
 base: core20 
-version: '0.1' 
+version: '1.0' 
 summary: App to create files with the date in the filename # 79 char long summary
 description: |
   A simple bash app, designed to create new files with the date in the file name in YYYY-mm-dd format
 
-grade: devel # must be 'stable' to release into candidate/stable channels
+grade: stable # must be 'stable' to release into candidate/stable channels
 
-confinement: devmode # use 'strict' once you have the right plugs and slots
+confinement: strict # use 'strict' once you have the right plugs and slots
 
 architectures: [ all ]
 
