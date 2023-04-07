@@ -4,7 +4,7 @@
 [![date-file](https://snapcraft.io/date-file/trending.svg?name=0)](https://snapcraft.io/date-file)
 
 
-A simple bash app, designed to create new files with the date in the file name in YYYY-mm-dd format. It only has terminal interface.
+A simple bash app, designed to create new files with the date in the file name in YYYY-mm-dd format. It has only terminal interface.
 
 # Installation
 
@@ -29,7 +29,7 @@ $ date-file meeting-notes.txt
 
 # Alias 
 
-If you :love love an you use a lot "date-file", but you are tired of writing the full command, you can create an alias with the following command.
+If you love an you use a lot "date-file", but you are tired of writing the full command, you can create an alias with the following command.
 ```
 $ sudo snap alias date-file dat
 ```
