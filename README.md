@@ -29,7 +29,7 @@ $ date-file meeting-notes.txt
 
 # Alias 
 
-If you :heart love an you use a lot "date-file", but you are tired of writing the full command, you can create an alias with the following command.
+If you :love love an you use a lot "date-file", but you are tired of writing the full command, you can create an alias with the following command.
 ```
 $ sudo snap alias date-file dat
 ```
