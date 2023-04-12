@@ -16,12 +16,12 @@ $ sudo snap install date-file
 
 # Usage
 
-Once you have installed, to use it you will need to write "file-date" on the prompt, and you will be asked the filename. 
+Once  installed, to use it you will need to write "file-date" on the prompt, and you will be asked the filename. 
 
 ![Image of date-file](public/01.png)
 
 
-Or if you prefer you can introduce de filename after "file-date" command on this way (in this way you can't introduce spaces on the file name)
+Or if you prefer it you can introduce de filename after "file-date" command on this way (in this way you can't introduce spaces on the file name)
 
 ```
 $ date-file meeting-notes.txt
@@ -29,7 +29,7 @@ $ date-file meeting-notes.txt
 
 # Alias 
 
-If you love an you use a lot "date-file", but you are tired of writing the full command, you can create an alias with the following command.
+If you love and you use a lot "date-file", but you are tired of writing the full command, you can create an alias with the following command.
 ```
 $ sudo snap alias date-file dat
 ```
